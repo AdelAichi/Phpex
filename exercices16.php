@@ -1,12 +1,12 @@
 <?php
-function plusGrand($tab){
+function plusPetit($tab){
     $tab=array(0,1,2,10,50);
     if (empty($tab)){
         return null;
 
     }else {
-    return max($tab);
+    return min($tab);
 }
 }
-echo plusGrand($tab);
+echo plusPetit($tab);
 ?>
