@@ -7,5 +7,5 @@ function verificationPassword($arg){
     }
 
 }
-echo verificationPassword(Adeladel)
+echo verificationPassword('Adeladel')
 ?>

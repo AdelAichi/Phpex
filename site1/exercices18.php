@@ -8,6 +8,6 @@ function verificationPassword($arg){
         return false;
     }
 }
-echo verificationPassword(A1bcdefg)
+echo verificationPassword('qjvqsjvqhjvqhsd123')
 
 ?>
