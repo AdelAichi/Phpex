@@ -28,5 +28,4 @@ echo capital('Espagne');
 echo capital('Portugal');     
 echo capital('Angleterre'); 
 
-
 ?>
